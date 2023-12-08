@@ -2530,7 +2530,7 @@
 			}
 			
 			console.log("->> Note: Do not paste code into this console unless from a trusted source <<--")
-			changeLg('ru');
+			
 		
 			var session = WebRTC.Media; // session is a required global variable if configuring manually. Run before loading main.js but after webrtc.js.
 			session.version = "24.2b";
@@ -2648,6 +2648,9 @@
 			// session.whipServerURL = "wss://whip.vdo.ninja"; // If you deploy your own whip websocket service
 		</script>
 		<script type="text/javascript" crossorigin="anonymous" id="lib-js" src="./lib.js?ver=1032"></script>
+		<script>
+			changeLg('ru');
+		</script>
 		<!-- 
 		// If you wish to change branding, blank offers a good clean start.
 		<script type="text/javascript" id="main-js" src="./main.js" data-translation="blank"></script>
