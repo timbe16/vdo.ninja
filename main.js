@@ -76,7 +76,7 @@ async function main(){ // main asyncronous thread; mostly initializes the user s
 		}
 		try {
 			if (ln_template===false){
-				changeLg("blank");
+				changeLg("ru");
 			}
 			//getById("mainmenu").style.opacity = 1;
 			
