@@ -527,7 +527,7 @@
     "toggle-control-video": "Toggle control bar",
     "chrome-cast": "Показать видео через..",
     "allow-effects-invite": "Разрешить использование видео-эффектов",
-    "please-select-option-to-join": "Please select an option to join.",
+    "please-select-option-to-join": "...",
     "try-the-mixer-out": "Try out the Mixer",
     "get-full-documentation": "Full Documentation",
     "get-the-source-code": "Source Code",
